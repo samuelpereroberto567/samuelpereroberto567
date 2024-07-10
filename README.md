@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos projetos qu
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou focado em [área de especialização].
+Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 
 ## Habilidades
