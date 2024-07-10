@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 ## Habilidades
 
 - **Linguagens**: java, SQL.
-- **Ferramentas e Tecnologias**: Git, Spring boot, mysql.
+- **Ferramentas e Tecnologias**: Git, Spring boot, maven, mysql.
 
 ## Estatísticas do GitHub
 
