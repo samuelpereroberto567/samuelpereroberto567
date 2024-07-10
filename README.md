@@ -1,4 +1,4 @@
-Olá, eu sou [Seu Nome]! 👋
+Olá, eu sou [Samuel Marinho]! 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos projetos que estou trabalhando.
 
