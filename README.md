@@ -17,8 +17,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
